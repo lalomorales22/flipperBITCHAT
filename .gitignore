@@ -1,0 +1,10 @@
+*.fap
+*.fam
+*.o
+*.d
+build/
+dist/
+.vscode/
+.idea/
+*.log
+.DS_Store
